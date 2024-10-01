@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @Partha Sarathi Das
+# 👋 Hi, I’m Partha Sarathi Das
 
 ## 👀 Interests
 I’m passionate about full-stack web development, with a focus on creating dynamic and user-friendly applications. I enjoy building projects that bridge both frontend and backend technologies.
