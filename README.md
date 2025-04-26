@@ -19,7 +19,7 @@ I’m eager to collaborate on projects that involve:
 
 ## 📫 How to Reach Me
 Feel free to reach out via:
-- **Email**: [parthasarathidas2209@gmail.com](mailto:parthasarathidas0922@gmail.com)
+- **Email**: [parthasarathidas0922@gmail.com](mailto:parthasarathidas0922@gmail.com)
 - **LinkedIn**: [Partha Sarathi Das](https://www.linkedin.com/in/partha-sarathi-das-bbb09b260/)
 
 ## 😄 Pronouns
