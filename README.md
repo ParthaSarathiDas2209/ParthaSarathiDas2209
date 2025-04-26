@@ -6,27 +6,24 @@ I’m passionate about full-stack web development, with a focus on creating dyna
 ## 🌱 Currently Learning
 I'm diving into:
 - **Frontend**: HTML,CSS,JavaScript,React.js
-- **Backend**: Mastering in MERN STACK & Exploring Spring Boot for Java-based backend development.  
+- **Backend**: Mastering & Exploring Spring Boot for Java-based backend development.  
 - **API Development**: Integrating and building RESTful APIs
-- **Database Management**: Working with NoSQL (MongoDB) and relational databases
+- **Database Management**: Working with MySQL relational databases
 
 ## 💞️ Looking to Collaborate On
 I’m eager to collaborate on projects that involve:
 - Full-stack web applications
 - Open-source contributions
-- Innovative solutions using MERN and Spring Boot
+- Innovative solutions using Spring Boot
 - Any exciting tech-related ventures!
 
 ## 📫 How to Reach Me
 Feel free to reach out via:
-- **Email**: [parthasarathidas2209@gmail.com](mailto:parthasarathidas2209@gmail.com)
+- **Email**: [parthasarathidas2209@gmail.com](mailto:parthasarathidas0922@gmail.com)
 - **LinkedIn**: [Partha Sarathi Das](https://www.linkedin.com/in/partha-sarathi-das-bbb09b260/)
 
 ## 😄 Pronouns
 He/Him 
-
-## ⚡ Fun Fact
-I love to solve puzzles and play strategy games, which helps me think critically and come up with creative solutions!
 
 ---
 
@@ -39,8 +36,8 @@ I love to solve puzzles and play strategy games, which helps me think critically
 
 ### Technologies Used
 - **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Node.js, Express.js, Spring Boot
-- **Database**: MongoDB, MySQL (or any others you use)
+- **Backend**: Spring Boot, Spring MVC, Spring REST, JDBC, Maven, Hibernate/JPA
+- **Database**: MySQL
 - **Version Control**: Git, GitHub
 
 ### Contributions
