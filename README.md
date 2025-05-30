@@ -27,12 +27,6 @@ He/Him
 
 ---
 
-### My Projects
-(Working on this will add Links to my Projects which will be going to redirect to my projects very soon)
-
-- **[Project Name 1](link-to-your-project)**: A brief description of what this project does, focusing on both frontend and backend aspects.
-- **[Project Name 2](link-to-your-project)**: A brief description of another project highlighting your skills in the MERN stack or Spring Boot.
-- **[Project Name 3](link-to-your-project)**: A brief description of a different project, showcasing any unique features or technologies used.
 
 ### Technologies Used
 - **Frontend**: HTML, CSS, JavaScript, React
