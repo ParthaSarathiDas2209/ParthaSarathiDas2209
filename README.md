@@ -1,92 +1,74 @@
-# Hi, I'm Partha Sarathi Das 👋
+# 👋 Hi, I'm Partha Sarathi Das
 
-I'm a BCA graduate interested in software development, particularly Java backend and full-stack web development. I enjoy building practical applications, exploring new technologies, and improving my development skills through hands-on projects.
+I'm interested in Java backend and full-stack web development. I enjoy building applications, exploring new technologies, and improving my skills through practical projects.
 
-### 👨‍💻 About Me
+## 👀 Interests
 
-- Interested in building backend applications using Java and Spring Boot.
-- Working on full-stack development with React.js and Spring Boot.
-- Enjoy designing REST APIs and working with relational databases.
-- Exploring application security, automated testing, and backend architecture.
-- Currently improving my projects and learning new technologies through practical implementation.
+- Backend development using Java and Spring Boot.
+- Full-stack development with React.js and Spring Boot.
+- Building RESTful APIs and working with databases.
+- Application security and authentication.
+- Learning new tools and improving my coding skills.
 
-### 🛠️ Technologies & Tools
+## 🌱 Currently Learning
 
-**Programming Languages**
-- Java
-- JavaScript
-- SQL
+I'm working on improving my development skills through hands-on practice and project development.
 
-**Frontend Development**
-- HTML5, CSS3
-- React.js
-- React Hooks
-- Vite
-- Responsive Web Design
+- **Programming Languages:** Java, JavaScript, SQL
+- **Frontend:** HTML, CSS, React.js, React Hooks
+- **Backend:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate
+- **Security:** Spring Security, JWT Authentication, RBAC, BCrypt
+- **API Development:** RESTful APIs, API Integration, Swagger / OpenAPI
+- **Database:** PostgreSQL, MySQL
+- **Testing:** JUnit 5, unit testing, assertions, Mockito (currently learning)
+- **Tools:** Maven, IntelliJ IDEA, VS Code, Postman
+- **Version Control:** Git, GitHub
 
-**Backend Development**
-- Java
-- Spring Boot
-- Spring MVC
-- Spring REST APIs
-- Spring Security
-- JWT Authentication
-- Role-Based Access Control (RBAC)
-- Spring Data JPA
-- Hibernate
+## 💻 Projects
 
-**Database**
-- PostgreSQL
-- MySQL
+- **[Talent Hub](https://github.com/ParthaSarathiDas2209/Talent_Hub_Project):** A job portal backend developed using Java, Spring Boot, Spring Security, JWT, and PostgreSQL. It includes user authentication, role-based access, job management, and application workflows. Currently working on testing and improving the backend.
 
-**Testing & API Tools**
-- JUnit 5
-- Mockito (currently learning and implementing)
-- Postman
-- Swagger / OpenAPI
+- **[AI Chatbot](https://github.com/ParthaSarathiDas2209/AIChatBot):** A chatbot built with React.js that integrates Google Gemini, OpenAI, and OpenRouter APIs. It supports multiple AI providers, streaming responses, and a responsive chat interface.
 
-**Development Tools**
-- IntelliJ IDEA
-- VS Code
-- Git & GitHub
-- Maven
+## 🚀 Currently Learning & Exploring
 
-### 🚀 Projects
+Exploring and implementing new technologies through upcoming projects:
 
-**Talent Hub – Job Portal Backend**
-- Developed a job portal backend using Java, Spring Boot, and PostgreSQL.
-- Implemented JWT authentication, Spring Security, and role-based authorization.
-- Built REST APIs for user management, jobs, and applications.
-- Currently working on automated testing and backend improvements.
+- Advanced Java, Spring Boot & React.js
+- JUnit 5 and Mockito
+- OAuth 2.0 and OpenID Connect
+- Docker, CI/CD and AWS
+- Microservices and API Gateway
+- Apache Kafka and Redis
+- Application monitoring and performance optimization
 
-**AI Chatbot – React**
-- Built a React-based chatbot integrating Google Gemini, OpenAI, and OpenRouter.
-- Implemented AI provider switching and streaming responses.
-- Worked with React Hooks, API integration, and modular components.
+## 💞️ Looking to Collaborate On
 
-### 🌱 Currently Learning & Exploring
+- Java and Spring Boot projects.
+- React.js and full-stack web applications.
+- REST API and database-related projects.
+- Open-source contributions and interesting development ideas.
 
-- Automated testing with JUnit and Mockito.
-- Advanced Java and Spring Boot concepts.
-- OAuth 2.0 and OpenID Connect.
-- Docker and CI/CD.
-- AWS and cloud deployment.
-- Microservices architecture and Apache Kafka.
-- Redis and application performance optimization.
-
-### 🤝 Looking to Collaborate On
-
-- Java and Spring Boot backend projects.
-- React and full-stack web applications.
-- Open-source projects.
-- Projects involving REST APIs and database development.
-
-### 📫 Connect With Me
+## 📫 How to Reach Me
 
 - **Email:** [parthasarathidas0922@gmail.com](mailto:parthasarathidas228@gmail.com)
 - **LinkedIn:** [Partha Sarathi Das](https://www.linkedin.com/in/partha-sarathi-das-bbb09b260/)
-- **GitHub:** [ParthaSarathiDas2209](https://github.com/ParthaSarathiDas2209)
+
+
+### 🛠️ Technologies Used
+
+- **Languages:** Java, JavaScript, SQL
+- **Frontend:** HTML, CSS, React.js
+- **Backend:** Spring Boot, Spring MVC, Spring Security, Spring Data JPA, Hibernate, JDBC
+- **Database:** PostgreSQL, MySQL
+- **Security:** JWT, RBAC, BCrypt
+- **API & Development Tools:** REST APIs, Swagger / OpenAPI, Postman, Maven
+- **Version Control:** Git, GitHub
+
+### 🤝 Contributions
+
+I welcome contributions and suggestions on my projects. Feel free to explore my repositories, report issues, or submit pull requests. I'm always open to learning from others and working together.
 
 ---
 
-Always learning, building, and improving through practical development.
+*Learning, building projects, and improving along the way.*
