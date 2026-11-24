@@ -14,7 +14,7 @@ I'm interested in Java backend and full-stack web development. I enjoy building 
 
 I'm working on improving my development skills through hands-on practice and project development.
 
-- **Programming Languages:** Java, JavaScript, SQL
+- **Programming Languages:** Java
 - **Frontend:** HTML, CSS, React.js, React Hooks
 - **Backend:** Spring Boot, Spring MVC, Spring Data JPA, Hibernate
 - **Security:** Spring Security, JWT Authentication, RBAC, BCrypt
