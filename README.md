@@ -1,39 +1,92 @@
-# 👋 Hi, I’m Partha Sarathi Das
+# Hi, I'm Partha Sarathi Das 👋
 
-## 👀 Interests
-I’m passionate about full-stack web development, with a focus on creating dynamic and user-friendly applications. I enjoy building projects that bridge both frontend and backend technologies.
+I'm a BCA graduate interested in software development, particularly Java backend and full-stack web development. I enjoy building practical applications, exploring new technologies, and improving my development skills through hands-on projects.
 
-## 🌱 Currently Learning
-I'm diving into:
-- **Frontend**: HTML,CSS,JavaScript,React.js
-- **Backend**: Mastering & Exploring Spring Boot for Java-based backend development.  
-- **API Development**: Integrating and building RESTful APIs
-- **Database Management**: Working with MySQL relational databases
+### 👨‍💻 About Me
 
-## 💞️ Looking to Collaborate On
-I’m eager to collaborate on projects that involve:
-- Full-stack web applications
-- Open-source contributions
-- Innovative solutions using Spring Boot
-- Any exciting tech-related ventures!
+- Interested in building backend applications using Java and Spring Boot.
+- Working on full-stack development with React.js and Spring Boot.
+- Enjoy designing REST APIs and working with relational databases.
+- Exploring application security, automated testing, and backend architecture.
+- Currently improving my projects and learning new technologies through practical implementation.
 
-## 📫 How to Reach Me
-Feel free to reach out via:
-- **Email**: [parthasarathidas0922@gmail.com](mailto:parthasarathidas0922@gmail.com)
-- **LinkedIn**: [Partha Sarathi Das](https://www.linkedin.com/in/partha-sarathi-das-bbb09b260/)
+### 🛠️ Technologies & Tools
 
-## 😄 Pronouns
-He/Him 
+**Programming Languages**
+- Java
+- JavaScript
+- SQL
+
+**Frontend Development**
+- HTML5, CSS3
+- React.js
+- React Hooks
+- Vite
+- Responsive Web Design
+
+**Backend Development**
+- Java
+- Spring Boot
+- Spring MVC
+- Spring REST APIs
+- Spring Security
+- JWT Authentication
+- Role-Based Access Control (RBAC)
+- Spring Data JPA
+- Hibernate
+
+**Database**
+- PostgreSQL
+- MySQL
+
+**Testing & API Tools**
+- JUnit 5
+- Mockito (currently learning and implementing)
+- Postman
+- Swagger / OpenAPI
+
+**Development Tools**
+- IntelliJ IDEA
+- VS Code
+- Git & GitHub
+- Maven
+
+### 🚀 Projects
+
+**Talent Hub – Job Portal Backend**
+- Developed a job portal backend using Java, Spring Boot, and PostgreSQL.
+- Implemented JWT authentication, Spring Security, and role-based authorization.
+- Built REST APIs for user management, jobs, and applications.
+- Currently working on automated testing and backend improvements.
+
+**AI Chatbot – React**
+- Built a React-based chatbot integrating Google Gemini, OpenAI, and OpenRouter.
+- Implemented AI provider switching and streaming responses.
+- Worked with React Hooks, API integration, and modular components.
+
+### 🌱 Currently Learning & Exploring
+
+- Automated testing with JUnit and Mockito.
+- Advanced Java and Spring Boot concepts.
+- OAuth 2.0 and OpenID Connect.
+- Docker and CI/CD.
+- AWS and cloud deployment.
+- Microservices architecture and Apache Kafka.
+- Redis and application performance optimization.
+
+### 🤝 Looking to Collaborate On
+
+- Java and Spring Boot backend projects.
+- React and full-stack web applications.
+- Open-source projects.
+- Projects involving REST APIs and database development.
+
+### 📫 Connect With Me
+
+- **Email:** [parthasarathidas0922@gmail.com](mailto:parthasarathidas0922@gmail.com)
+- **LinkedIn:** [Partha Sarathi Das](https://www.linkedin.com/in/partha-sarathi-das-bbb09b260/)
+- **GitHub:** [ParthaSarathiDas2209](https://github.com/ParthaSarathiDas2209)
 
 ---
 
-
-### Technologies Used
-- **Frontend**: HTML, CSS, JavaScript, React
-- **Backend**: Spring Boot, Spring MVC, Spring REST, JDBC, Maven, Hibernate/JPA
-- **Database**: MySQL
-- **Version Control**: Git, GitHub
-
-### Contributions
-I welcome contributions to my projects! Feel free to open issues or submit pull requests. Let's create amazing things together!
-
+Always learning, building, and improving through practical development.
