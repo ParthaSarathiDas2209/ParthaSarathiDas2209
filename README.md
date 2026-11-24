@@ -83,7 +83,7 @@ I'm a BCA graduate interested in software development, particularly Java backend
 
 ### 📫 Connect With Me
 
-- **Email:** [parthasarathidas0922@gmail.com](mailto:parthasarathidas0922@gmail.com)
+- **Email:** [parthasarathidas0922@gmail.com](mailto:parthasarathidas228@gmail.com)
 - **LinkedIn:** [Partha Sarathi Das](https://www.linkedin.com/in/partha-sarathi-das-bbb09b260/)
 - **GitHub:** [ParthaSarathiDas2209](https://github.com/ParthaSarathiDas2209)
 
