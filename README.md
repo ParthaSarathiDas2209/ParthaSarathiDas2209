@@ -51,7 +51,7 @@ Exploring and implementing new technologies through upcoming projects:
 
 ## 📫 How to Reach Me
 
-- **Email:** [parthasarathidas0922@gmail.com](mailto:parthasarathidas228@gmail.com)
+- **Email:** [parthasarathidas228@gmail.com](mailto:parthasarathidas228@gmail.com)
 - **LinkedIn:** [Partha Sarathi Das](https://www.linkedin.com/in/partha-sarathi-das-bbb09b260/)
 
 
